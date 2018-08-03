@@ -5,7 +5,7 @@ Geef hier je werkuren in voor de juiste week
 ## Week 30  Juli - 3 aug
 | Naam | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag |
 | ---- | ------- | ------- | -------- | --------- | ------- |
-| Willems Jef | 8 | 8 | 8 | 8 | 8 |
+| Willems Jef | 8 | 8 | 8 | 8 | *5* |
 | Hervé Munyaneza | 8 | 8 | 8 | 8 | 8 |
 | Ruben Vervust | 0 | 0 | 8 | 8 | 8 |
 
